@@ -12,11 +12,7 @@ ________________________________________________________________________________
 
 ### 🧰 Languages & Tools:
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
-</p>
-
-<br />
+  <![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)>
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
