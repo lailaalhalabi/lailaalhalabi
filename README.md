@@ -7,7 +7,7 @@
 - 👯 I’m looking forward to learn databases & web programming soon!
 
 
-### Languages & Tools
+### 🧰 Languages & Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
