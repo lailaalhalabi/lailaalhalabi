@@ -20,6 +20,7 @@
     alt="Gmail"
     src="laila.alhalabi99@gmail.com"
   />
+ </a> 
   
 <a href="https://www.instagram.com/lailaa.alhalabi/?fbclid=IwAR2rXMvO38_KMMkLyyc1NGJcKczmfJsU5EwJa7TRKxypx2qz-nVQ_Fdu-gk">
   <img
