@@ -10,12 +10,6 @@
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ### 🧰 Languages & Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
