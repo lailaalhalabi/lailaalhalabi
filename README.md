@@ -16,6 +16,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
 _____________________________________________________________________________________________________________________________________________________________________________
