@@ -7,7 +7,7 @@
 - 👯 I’m looking forward to learn databases & web programming soon!
 
 ### 📫 You can reach me anytime here! :)
-  <a href="instagram.com/lailaa.alhalabi">
+  <a href="https://www.instagram.com/lailaa.alhalabi/?fbclid=IwAR2rXMvO38_KMMkLyyc1NGJcKczmfJsU5EwJa7TRKxypx2qz-nVQ_Fdu-gk">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
