@@ -9,13 +9,6 @@
 
 ### Languages & Tools
 
-<p>
-<img alt="Java" src="https://img.shields.io/badge/Java-61DAFB?logo=Java&logoColor=white&style=for-the-badge" />
-<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-61DAFB?logo=MATLAB&logoColor=white&style=for-the-badge" />
-<img alt="Octave" src="https://img.shields.io/badge/Octave-61DAFB?logo=Octave&logoColor=white&style=for-the-badge" />
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-61DAFB?logo=LaTeX&logoColor=white&style=for-the-badge" />
-</p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
 
