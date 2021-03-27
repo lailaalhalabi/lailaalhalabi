@@ -6,15 +6,17 @@ ________________________________________________________________________________
 ![](https://visitor-badge.laobi.icu/badge?page_id=lailaalhalabi.lailaalhalabi) 
 
 - 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms using Java language!
-- 👯 I’m looking forward to learn databases & web programming soon!
+- 👯 I’m looking forward to learning databases & web programming soon!
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ### 🧰 Languages & Tools:
+
 <p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 </p>
 
+<br />
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
