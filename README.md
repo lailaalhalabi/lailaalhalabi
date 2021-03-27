@@ -5,7 +5,7 @@
 
 - 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms using Java language!
 - 👯 I’m looking forward to learn databases & web programming soon!
-- 📫 You can reach me here https://www.linkedin.com/in/laila-alhalabi-b0a96a205/ ! :)
+- 📫 You can reach me anytime here https://www.linkedin.com/in/laila-alhalabi-b0a96a205/ ! :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
