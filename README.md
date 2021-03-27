@@ -5,7 +5,6 @@
 
 - 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms!
 - 👯 I’m looking forward to learning databases & web programming soon!
-- 📫 You can email me at **laila.alhalabi99@gmail.com**
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
