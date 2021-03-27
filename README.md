@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lailaalhalabi.lailaalhalabi) 
 
-- 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms using Java language!
+- 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms!
 - 👯 I’m looking forward to learning databases & web programming soon!
 - 📫 You can email me at **laila.alhalabi99@gmail.com**
 
