@@ -1,6 +1,5 @@
 
 <h1 align="center"> Hi there, It's Laila Alhalabi!💖 </h1>
-_____________________________________________________________________________________________________________________________________________________________________________
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lailaalhalabi.lailaalhalabi) 
 
