@@ -23,5 +23,10 @@
 </a>
 
 ### Languages & Tools
+
+<p>
+<img alt="Java" src="https://img.shields.io/badge/Java-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
