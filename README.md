@@ -1,4 +1,4 @@
-### 💖 Hi there, I'm Laila! 
+### 💖 Hi there!
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lailaalhalabi.lailaalhalabi) 
@@ -7,12 +7,12 @@
 - 👯 I’m looking forward to learn databases & web programming soon!
 
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=radical)
 
 
-### 📫 You can reach me anytime here! :)
+### 📫 You can reach me anytime here:
 
 <a href="https://www.linkedin.com/in/laila-alhalabi-b0a96a205/">
   <img
