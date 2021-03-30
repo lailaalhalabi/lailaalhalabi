@@ -10,7 +10,9 @@ ________________________________________________________________________________
 
 ### 🧰 Languages & Tools:
 <p align="center">
-<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=dracula)>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=dracula)
+
 </p>
 
 _____________________________________________________________________________________________________________________________________________________________________________
