@@ -1,9 +1,6 @@
 
 <h1 align="center"> Hi there! 💖 </h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=lailaalhalabi.lailaalhalabi) 
-
-
 - 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms!
 
 - 👯 I’m looking forward to learning databases & web programming soon!
@@ -17,7 +14,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-### 📫 You can reach me anytime here:
+### 📫 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/laila-alhalabi-b0a96a205/">
