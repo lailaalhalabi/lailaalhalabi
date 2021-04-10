@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there! 💖 </h1>
+<h1 align="center"> Hi! 💖 </h1>
 
 - 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms!
 
