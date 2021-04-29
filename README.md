@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! 💖 </h1>
 
-- 🌱 I’m a second-year software engineering student, and I'm currently learning data structures & algorithms!
+- 🌱 I’m a second-year software engineering student, and here I'm sharing some of my projects! :)
 
 - 📫 laila.alhalabi99@gmail.com
 
