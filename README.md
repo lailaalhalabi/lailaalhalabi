@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! 💖 </h1>
 
-- 🌱 I’m a second-year software engineering student, and I'm sharing some of my projects here! :)
+- 🌱 I’m a third-year software engineering student, and I'm sharing some of my projects here! :)
 
 - 📫 laila.alhalabi99@gmail.com
 
