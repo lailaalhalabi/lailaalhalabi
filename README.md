@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi! 💖 </h1>
+<h1 style="font-family:cursive;" align="center"> Hi! 💖 </h1>
 
 - 🌱 I’m a third-year software engineering student, and I'm sharing some of my projects here! :)
 
