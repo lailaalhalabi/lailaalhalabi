@@ -9,6 +9,7 @@ ________________________________________________________________________________
 
 ### 🧰 Languages & Tools:
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&theme=dracula)
+   ![Laila github stats](https://github-readme-stats.vercel.app/api?username=lailaalhalabi&show_icons=true&hide_border=true)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
