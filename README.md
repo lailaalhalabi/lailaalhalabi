@@ -3,17 +3,17 @@
 
 ## 👩‍💻 About me:
 - 📚 Software Engineering student at Concordia University
-- ✨ Passionate about Web Development and Mobile Application Development
+- ✨ Passionate about Mobile Application Development
 - 🌱 Learning more about Databases
 - 🌎 Located in Montréal, Canada
 
 ## 🧰 Languages & Tools:
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=lailaalhalabi&show_icons=true&hide_border=true&theme=merko"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=lailaalhalabi&show_icons=true&hide_border=true&theme=dracula"/>
 </p>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&layout=compact&theme=merko"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&layout=compact&theme=dracula"/>
 </p>
 
 <p align="center">
