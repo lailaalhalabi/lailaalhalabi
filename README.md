@@ -18,6 +18,7 @@
 
 <p align="center">
    <img src="https://s3.amazonaws.com/karengryg.io/wp-content/uploads/2018/08/11112606/java-logo-e1534012340724.png" alt="Java" width="50" height="50" style="vertical-align:top; margin:5px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png" alt="MATLAB" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://th.bing.com/th/id/R.d81c04d746224d25d1ae75b62e7561f3?rik=U1LfuH4fG4gBLw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fRuby_logo.png&ehk=pdFSeKP%2fGRRuGPLxzDEsary7DOpTReXDqILn%2fjd40Tk%3d&risl=1&pid=ImgRaw&r=0" alt="Ruby" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML" width="50" height="50" style="vertical-align:top; margin:5px">
