@@ -4,7 +4,7 @@
 ## 👩‍💻 About me:
 - 📚 Software Engineering student at Concordia University
 - ✨ Passionate about Mobile Application Development
-- 🌱 Learning more about Databases
+- 🌱 Learning about Big Data Analytics
 - 🌎 Located in Montréal, Canada
 
 ## 🧰 Languages & Tools:
