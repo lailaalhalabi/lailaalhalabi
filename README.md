@@ -34,7 +34,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="vertical-align:top; margin:5px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="50" height="50" style="vertical-align:top; margin:5px">
-   <img src="https://github.com/devicons/devicon/tree/master/icons/nodejs" alt="NodeJS" width="50" height="50" style="vertical-align:top; margin:5px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://www.influxdata.com/wp-content/uploads/php_logo.png" alt="php" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="50" height="50" style="vertical-align:top; margin:5px">
