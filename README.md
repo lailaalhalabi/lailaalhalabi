@@ -38,6 +38,7 @@
    <img src="https://www.influxdata.com/wp-content/uploads/php_logo.png" alt="php" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="50" height="50" style="vertical-align:top; margin:5px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://camo.githubusercontent.com/04d74fa252ccfc767a20a5719365205c5251294b38c3d91d213491b24200e595/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f66697265626173652e706e67" alt="firebase" width="60" height="60" style="vertical-align:top; margin:5px">
    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" alt="spring" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60" style="vertical-align:top; margin:5px">
