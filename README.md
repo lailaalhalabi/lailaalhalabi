@@ -2,9 +2,8 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 ## 👩‍💻 About me:
-- 📚 Software Engineering student at Concordia University
+- 📚 Software Engineering Graduate from Concordia University
 - ✨ Passionate about Mobile Application Development
-- 🌱 Learning about Big Data Analytics
 - 🌎 Located in Montréal, Canada
 
 ## 🧰 Languages & Tools:
