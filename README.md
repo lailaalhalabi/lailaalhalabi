@@ -47,7 +47,7 @@
 ## ✉️  Reach me out:
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/laila-alhalabi-b0a96a205/">
+   <a href="https://www.linkedin.com/in/laila-alhalabi/">
       <img alt="Linkedin" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" width="45" height="45" style="vertical-align:top; margin:5px" />
    </a>
    <a href = "mailto: laila.alhalabi99@gmail.com">
