@@ -20,13 +20,13 @@
        <td>
          Defined as a collaborative project-based learning platform, Xplorify is an upcoming application that facilitates learning programming technologies (languages, frameworks, infrastructure services, etc.) using project-based learning. The application focuses on the creation of projects by either a user or a group of users which can later be shared within the community.  By using this application, users can explore technologies of interest. 
           <p align="center">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="50" height="50" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="50" height="50" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="40" height="40" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="40" height="40" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="vertical-align:top; margin:5px">
           </p>
           <p align="center">
              <a href="https://github.com/SamanthaGuillemette/SOEN490"> Project Repo </a>
