@@ -1,10 +1,40 @@
 
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi 👋 </h1>
 
 ## 👩‍💻 About me:
 - 📚 Software Engineering Graduate from Concordia University
-- ✨ Passionate about Mobile Application Development
+- ✨ Passionate about Web Development & Mobile Application Development
 - 🌎 Located in Montréal, Canada
+
+## 🚀 Favourite project:
+
+<table>
+   <tr>
+      <td>
+         <h3 align="center">Xplorify</h3>
+         <img width="438" alt="Screenshot 2024-10-25 at 9 55 57 PM" src="https://github.com/user-attachments/assets/65e3dc54-f4a6-41b0-a64f-f6c464604467">
+         <p align="center">
+            <a href="https://www.youtube.com/watch?v=nwFgiZpvl0E"> Project Demo </a> 
+         </p>
+      </td>
+       <td>
+         Defined as a collaborative project-based learning platform, Xplorify is an upcoming application that facilitates learning programming technologies (languages, frameworks, infrastructure services, etc.) using project-based learning. The application focuses on the creation of projects by either a user or a group of users which can later be shared within the community.  By using this application, users can explore technologies of interest. 
+          <p align="center">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="50" height="50" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="50" height="50" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60" style="vertical-align:top; margin:5px">
+             <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="vertical-align:top; margin:5px">
+          </p>
+          <p align="center">
+             <a href="https://github.com/SamanthaGuillemette/SOEN490"> Project Repo </a>
+          </p>
+      </td>
+   </tr>
+</table>
+
 
 ## 🧰 Languages & Tools:
 
@@ -18,6 +48,7 @@
       </td>
    </tr>
 </table>
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&layout=compact&theme=dracula"/>
 </p>
@@ -43,8 +74,13 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" alt="spring" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60" style="vertical-align:top; margin:5px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="vertical-align:top; margin:5px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="vertical-align:top; margin:5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="vertical-align:top; margin:5px">
 </p>
+
+
+
 
 ## ✉️  Reach me out:
 
