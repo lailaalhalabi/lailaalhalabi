@@ -38,17 +38,6 @@
 
 ## 🧰 Languages & Tools:
 
-<table>
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=lailaalhalabi&show_icons=true&hide_border=true&theme=dracula"/>
-      </td>
-       <td>
-         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lailaalhalabi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-      </td>
-   </tr>
-</table>
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaalhalabi&layout=compact&theme=dracula"/>
 </p>
