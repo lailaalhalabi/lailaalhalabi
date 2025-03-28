@@ -2,39 +2,9 @@
 <h1 align="center"> Hi 👋 </h1>
 
 ## 👩‍💻 About me:
-- 📚 Software Engineering Graduate from Concordia University
-- ✨ Passionate about Web Development & Mobile Application Development
+- ✨ I'm a full-stack software engineer with expertise in front-end and back-end development and scalable APIs. I enjoy solving complex problems and exploring new technologies.
+- 📚 Studied Software Engineering at Concordia University
 - 🌎 Located in Montréal, Canada
-
-## 🚀 Favourite project:
-
-<table>
-   <tr>
-      <td>
-         <h3 align="center">Xplorify</h3>
-         <img width="438" alt="Screenshot 2024-10-25 at 9 55 57 PM" src="https://github.com/user-attachments/assets/65e3dc54-f4a6-41b0-a64f-f6c464604467">
-         <p align="center">
-            <a href="https://www.youtube.com/watch?v=nwFgiZpvl0E"> Project Demo </a> 
-         </p>
-      </td>
-       <td>
-         Defined as a collaborative project-based learning platform, Xplorify is an upcoming application that facilitates learning programming technologies (languages, frameworks, infrastructure services, etc.) using project-based learning. The application focuses on the creation of projects by either a user or a group of users which can later be shared within the community.  By using this application, users can explore technologies of interest. 
-          <p align="center">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="40" height="40" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="40" height="40" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="vertical-align:top; margin:5px">
-             <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="vertical-align:top; margin:5px">
-          </p>
-          <p align="center">
-             <a href="https://github.com/SamanthaGuillemette/SOEN490"> Project Repo </a>
-          </p>
-      </td>
-   </tr>
-</table>
-
 
 ## 🧰 Languages & Tools:
 
@@ -79,8 +49,5 @@
    </a>
    <a href = "mailto: laila.alhalabi99@gmail.com">
       <img alt="Gmail" src="https://icteducation.norfolk.gov.uk/content/1468/images/Gmail-logo.png" width="55" height="45" style="vertical-align:top; margin:5px"/>
-   </a>
-   <a href="https://www.instagram.com/_l.ail.a_/">
-      <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="45"height="45" style="vertical-align:top; margin:5px" />
-   </a>
+   </a>=
 </p>
