@@ -68,16 +68,16 @@ Building scalable applications, real-time platforms, and modern user experiences
 
 <div align="center">
 
-<a href="https://lailaalhalabi.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+<a href="https://lailaalhalabi.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/laila-alhalabi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<a href="https://www.linkedin.com/in/laila-alhalabi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:laila.alhalabi99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+<a href="mailto:laila.alhalabi99@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
