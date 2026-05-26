@@ -24,8 +24,6 @@ Building scalable applications, real-time platforms, and modern user experiences
 - 🎓 Software Engineering Graduate — Concordia University  
 - 📍 Montréal, Canada  
 
-<br clear="right"/>
-
 ---
 
 # ⚡ Tech Stack
