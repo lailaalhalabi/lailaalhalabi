@@ -35,17 +35,11 @@ Building scalable applications, real-time platforms, and modern user experiences
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,figma" />
 
-<br/><br/>
-
 ### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,firebase" />
 
-<br/><br/>
-
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins,git" />
-
-<br/><br/>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
